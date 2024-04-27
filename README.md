@@ -25,4 +25,4 @@ Puedes visualizar el proyecto abriendo el archivo `index.html` en tu navegador w
 ![Vista previa de PiuraPlants](images/captura3.png)
 ![Vista previa de PiuraPlants](images/captura4.png)
 
-¡Gracias por visitar mi carta perfil!
+¡Gracias por visitar PiuraPlants!
